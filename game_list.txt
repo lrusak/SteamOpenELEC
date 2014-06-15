@@ -1,466 +1,462 @@
-AppID	Works	Title
----------------------------------------------------------------
-10	True	Counter-Strike
-20	True	Team Fortress Classic
-30	True	Day of Defeat
-40	True	Deathmatch Classic
-50	True	Half-Life: Opposing Force
-60	True	Ricochet
-70	True	Half-Life
-80	True	Counter-Strike: Condition Zero
-100	True	Counter-Strike: Condition Zero
-130	True	Half-Life: Blue Shift
-220	True	Half-Life 2
-240	True	Counter-Strike: Source
-280	True	Half-Life: Source
-300	True	Day of Defeat: Source
-320	True	Half-Life 2: Deathmatch
-340	True	Half-Life 2: Lost Coast
-360	True	Half-Life Deathmatch: Source
-380	True	Half-Life 2: Episode One
-400	True	Portal
-420	True	Half-Life 2: Episode Two
-440	True	Team Fortress 2
-550	True	Left 4 Dead 2
-570	True	Dota 2
-620	{'Beta': True}	Portal 2
-1200	True	Red Orchestra: Ostfront 41-45
-1230	True	Mare Nostrum
-1250	True	Killing Floor
-1280	True	Darkest Hour: Europe '44-'45
-1500	True	Darwinia
-1510	True	Uplink
-1520	True	DEFCON
-1530	True	Multiwinia
-2810	True	X3: Reunion
-2820	True	X3: Terran Conflict
-3830	True	Psychonauts
-4000	True	Garry's Mod
-4920	True	Natural Selection 2
-6120	True	Shank
-8930	True	Sid Meier's Civilization® V
-13700	Error
-15400	True	Harvest: Massive Encounter
-15560	True	AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
-17520	True	Synergy
-17710	True	Nuclear Dawn
-18300	True	Spectraball
-18700	True	And Yet It Moves
-20820	True	Shatter
-20920	True	The Witcher 2: Assassins of Kings Enhanced Edition
-22000	True	World of Goo
-22120	True	Penumbra Black Plague Gold Edition
-22140	True	Penumbra Black Plague Gold Edition
-22180	True	Penumbra Overture
-22600	True	Worms Reloaded
-24420	True	Aquaria
-25000	True	Overgrowth
-25010	True	Lugaru HD
-25600	True	Eschalon: Book I
-25620	True	Eschalon: Book II
-26500	True	Cogs
-29160	True	Blueberry Garden
-29180	True	Osmos
-33600	True	Broken Sword 2 - the Smoking Mirror: Remastered
-33680	True	eversion
-35480	True	Dwarfs!?
-35720	True	Trine 2: Complete Story
-38600	{'Beta': True}	Faerie Solitaire
-38700	True	Toki Tori
-38720	True	RUSH
-38740	True	EDGE
-40800	True	Super Meat Boy
-41070	True	Serious Sam 3: BFE
-41100	True	Hammerfight
-41300	True	Altitude
-41800	True	Gratuitous Space Battles
-41900	True	The Bard's Tale
-43160	True	Metro: Last Light
-44200	True	Galcon Fusion
-45100	True	Secret of the Magic Crystals
-45450	True	Fortix 2
-45900	{'Comment': 'A Wine Bottle.'}	CID the Dummy
-49600	True	Beat Hazard
-57300	True	Amnesia: The Dark Descent
-57640	{'Comment': "Ignores SDL environment variables so isn't playable on multiple displays."}	Broken Sword: Director's Cut
-57740	True	Jagged Alliance - Back in Action
-58610	True	Wargame: European Escalation
-61600	True	Zen Bound 2
-63000	True	HOARD
-65800	True	Dungeon Defenders
-67000	True	The Polynomial - Space of the music
-70100	True	Hacker Evolution
-70110	True	Hacker Evolution: Untold
-70120	True	Hacker Evolution Duality
-70300	True	VVVVVV
-72000	True	Closure
-73010	True	Cities in Motion
-80310	True	Gemini Rue
-91200	True	Anomaly: Warzone Earth
-92800	True	SpaceChem
-93200	True	Revenge of the Titans
-95000	True	Super Splatters
-95300	True	Capsized
-96200	True	Steel Storm: Burning Retribution
-97000	True	Solar 2
-98200	True	Frozen Synapse
-98800	{'Comment': 'Broken overlay.'}	Dungeons of Dredmor
-102840	True	Shank 2
-105100	{'Comment': 'Overlay works only in full-screen mode. Steamworks features are unavailable.'}	Lume
-107100	True	Bastion
-107200	True	Space Pirates and Zombies
-107800	True	Rochard
-108200	True	Ticket to Ride
-108600	True	Project Zomboid
-111000	{'Comment': 'Broken overlay.'}	The Clockwork Man
-111010	{'Comment': 'Broken overlay.'}	The Clockwork Man: The Hidden World
-111100	True	Snuggle Truck
-111800	True	Blocks That Matter
-112100	True	Avadon: The Black Fortress
-113020	True	Monaco: What's Yours Is Mine
-115100	True	Costume Quest
-115110	True	Stacking
-200390	True	Oil Rush
-200900	True	Cave Story+
-201040	True	Galcon Legends
-201310	True	X3: Albion Prelude
-201420	True	Toki Tori 2+
-202730	True	Dynamite Jack
-203210	True	Titan Attacks!
-203770	True	Crusader Kings II
-204060	True	Superbrothers: Sword & Sworcery EP
-204180	True	Waveform
-204220	True	Snapshot
-204240	True	The Bridge
-204300	True	Awesomenauts
-205790	Error
-205910	True	Tiny and Big: Grandpa's Leftovers
-206440	True	To the Moon
-206690	True	iBomber Defense Pacific
-207080	{'Beta': True}	Indie Game: The Movie
-207170	True	Legend of Grimrock
-207250	True	Cubemen
-207570	True	English Country Tune
-207650	True	A Virus Named TOM
-207750	True	Symphony
-209080	True	Guns of Icarus Online
-209190	True	Stealth Bastard Deluxe
-209270	True	Hero Academy
-209370	True	Analogue: A Hate Story
-209540	True	Strike Suit Zero
-209790	{'CommentURL': 'http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741', 'Comment': 'Achievements do not unlock.'}	Splice
-210170	True	Spirits
-210770	{'Beta': True}	Sanctum 2
-211340	{'Comment': 'Broken overlay.'}	Magical Diary
-211820	True	Starbound
-211900	True	Conquest of Elysium 3
-212070	True	Star Conflict
-212680	True	FTL: Faster Than Light
-213650	True	Dwarfs - F2P
-214420	{'Comment': 'Broken overlay.'}	Gear Up
-214550	True	Eets Munchies
-214560	True	Mark of the Ninja
-214770	True	Guacamelee! Gold Edition
-214870	True	Painkiller Hell & Damnation
-214910	True	Air Conflicts: Pacific Carriers
-214970	{'Comment': 'Broken overlay. Steamworks features are unavailable.'}	Intrusion 2
-215160	{'Comment': 'Broken overlay.'}	The Book of Unwritten Tales
-215510	True	Rocketbirds: Hardboiled Chicken
-216290	True	Gateways
-217690	True	Anna - Extended Edition
-218060	True	BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien
-218090	True	Unity of Command: Stalingrad Campaign
-218410	{'Comment': 'Broken overlay.'}	Defender's Quest: Valley of the Forgotten
-218660	True	iBomber Attack
-219150	True	Hotline Miami
-219190	True	Ultratron
-219200	True	Droid Assault
-219680	True	Proteus
-219740	True	Don't Starve
-219830	True	King Arthur's Gold
-219890	True	Antichamber
-220090	True	The Journey Down: Chapter One
-220200	True	Kerbal Space Program
-220460	True	Cargo Commander
-220780	True	Thomas Was Alone
-220900	True	Jack Lumber
-221020	True	Towns
-221260	True	Little Inferno
-221640	True	Super Hexagon
-221810	True	The Cave
-221830	True	The Book of Unwritten Tales: The Critter Chronicles
-222140	True	Puddle
-222520	True	Champions of Regnum
-222730	True	Reus
-222750	True	Wargame: Airland Battle
-223470	True	POSTAL 2
-223530	Error
-224260	True	No More Room in Hell
-224480	True	Octodad: Dadliest Catch
-224760	True	FEZ
-224860	True	Arma Tactics
-225140	True	Duke Nukem 3D: Megaton Edition
-225160	True	Shadow Warrior Classic Redux
-225260	True	Brutal Legend
-225420	True	Cities in Motion 2
-226620	True	Desktop Dungeons
-226960	True	Ironclad Tactics
-227160	True	Kinetic Void
-227200	True	Waking Mars
-227300	True	Euro Truck Simulator 2
-227580	True	10,000,000
-227860	True	Castle Story
-228440	True	Cubemen 2
-228960	True	Skulls of the Shogun
-229520	True	Dungeon Hearts
-230190	True	War for the Overworld
-230310	True	Akaneiro: Demon Hunters
-230760	True	DIVO
-231040	True	Beatbuddy: Tale of the Guardians
-231160	True	The Swapper
-231200	True	Kentucky Route Zero
-231310	True	MirrorMoon EP
-231330	True	Deadfall Adventures
-231670	True	Football Manager 2014
-231720	True	Bad Hotel
-231740	True	Knights of Pen and Paper +1 Edition
-231910	True	Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
-232050	{'Comment': 'The game is not a Linux port but a WINE self contained package.'}	Eador: Masters of the Broken World
-232430	True	Gone Home
-232770	True	POSTAL
-232790	True	Broken Age
-233150	True	LUFTRAUSERS
-233230	True	Kairo
-233250	True	Planetary Annihilation
-233370	True	The Raven - Legacy of a Master Thief
-233450	True	Prison Architect
-233720	True	Surgeon Simulator 2013
-233740	True	Organ Trail: Director's Cut
-234000	True	Superfrog HD
-234060	True	Timelines: Assault on America
-234190	True	Receiver
-234390	True	Teleglitch: Die More Edition
-234650	True	Shadowrun Returns
-234900	True	Anodyne
-234940	True	The 39 Steps
-235820	True	Element4l
-235980	True	Tetrobot and Co.
-236090	True	Dust: An Elysian Tail
-236370	True	Interstellar Marines
-236730	True	Anomaly 2
-236850	True	Europa Universalis IV
-237430	True	Expeditions: Conquistador
-237470	True	Battle Worlds: Kronos
-237550	True	Realms of Arkania: Blade of Destiny
-237870	True	Planet Explorers
-238210	True	System Shock 2
-238280	True	Legend of Dungeon
-238460	True	BattleBlock Theater®
-238910	True	Bionic Dues
-239030	True	Papers, Please
-239070	True	Hammerwatch
-239200	True	Amnesia: A Machine for Pigs
-239700	True	Hate Plus
-239820	True	Game Dev Tycoon
-240760	True	Wasteland 2 Digital Deluxe Edition
-241320	True	Ittle Dew
-241600	True	Rogue Legacy
-241640	True	Haunted Memories
-242110	True	Joe Danger 2: The Movie
-242530	True	The Chaos Engine
-242570	True	Space Hulk
-242680	True	Nuclear Throne
-242820	True	140
-242860	True	Verdun
-242880	True	Sir, You Are Being Hunted
-243140	True	Glare
-243280	True	Poöf
-243780	True	PixelJunk™ Monsters Ultimate
-244810	True	Foul Play
-244870	True	Electronic Super Joy
-245150	True	The Novelist
-245390	True	I Have No Mouth, and I Must Scream
-245410	True	Wizardry 6: Bane of the Cosmic Forge
-245430	True	Wizardry 7: Crusaders of the Dark Savant
-245470	True	Democracy 3
-245550	{'Comment': "Overlay doesn't work."}	Free to Play
-246070	True	Hack 'n' Slash
-246090	True	Spacebase DF-9
-246360	True	Perfection.
-246400	True	Nekro
-246420	True	Kingdom Rush
-246680	True	Secrets of Rætikon
-246800	True	BeatBlasters III
-247020	True	Cook, Serve, Delicious!
-247870	True	Redshirt
-248190	{'Comment': 'There might be some input glitches on the Steam overlay.'}	Knytt Underground
-248410	True	Legends of Aethereus
-248450	True	Salvation Prophecy
-248470	True	Doorways: Chapter 1 & 2
-248510	True	Dominions 3: The Awakening
-248550	True	Megabyte Punch
-248570	True	Toribash
-248610	True	Door Kickers
-248710	True	Iesabel
-248800	{'CommentURL': 'http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647', 'Comment': 'Need to disable Steamworks on 64bit systems due to a bug.'}	Dysfunctional Systems: Learning to Manage Chaos
-248860	{'Comment': 'Broken overlay.'}	NEO Scavenger
-249570	True	The Castle Doctrine
-249590	True	Teslagrad
-249630	True	Delver
-249950	True	Forge Quest
-249990	True	FORCED
-250050	True	Life Goes On
-250110	True	Assault Android Cactus
-250260	True	Jazzpunk
-250380	True	Knock-knock
-250420	{'Comment': 'Overlay works in server-select window, but not in game window.'}	8BitMMO
-250460	True	Bridge Constructor
-250580	True	Paranautical Activity
-250600	True	The Plan
-250620	True	Among the Sleep
-251210	True	Hive
-251370	True	Escape Goat
-251410	True	Dark Matter
-251470	True	TowerFall Ascension
-251530	True	Anomaly Korea
-251630	True	The Impossible Game
-251910	True	Solar Flux
-251990	True	Long Live The Queen
-252010	{'Comment': 'The game is not a Linux port but a WINE self contained package.'}	Oniken
-252170	True	Anomaly Warzone Earth Mobile Campaign
-252250	True	Maia
-252310	True	Syder Arcade
-252370	True	The Shivah
-252410	True	SteamWorld Dig
-252490	True	Rust
-252630	True	Eldritch
-252670	True	Nihilumbra
-252750	True	MouseCraft
-253030	True	Race The Sun
-253110	{'Comment': 'Broken overlay.'}	The Cat Lady
-253310	True	Fester Mudd: Curse of the Gold - Episode 1
-253410	True	Ravensword: Shadowlands
-253570	True	Gentlemen!
-253650	True	Sparkle 2 Evo
-253790	True	rymdkapsel
-255300	True	Journey of a Roach
-255340	True	Escape Goat 2
-255500	True	Entropy
-255870	True	PixelJunk™ Shooter
-255920	True	The 7th Guest
-257120	True	Not The Robots
-257670	True	Elder Sign: Omens
-257770	True	Signal Ops
-257830	True	Violett
-257870	True	Eschalon: Book III
-257930	True	Race To Mars
-258050	True	Survivor Squad
-258890	True	Type:Rider
-258950	True	Montague's Mount
-259060	True	Dominions 4: Thrones of Ascension
-259130	True	Wasteland 1 - The Original Classic
-259390	True	Ballpoint Universe - Infinite
-259430	True	Zigfrak
-259450	True	Drifter
-259470	True	Particulars
-259510	True	Shufflepuck Cantina Deluxe
-259530	True	Savant - Ascent
-259600	True	Finding Teddy
-259620	True	3079 -- Block Action RPG
-259680	True	Tales of Maj'Eyal
-259700	True	Dead Sky
-259720	True	Fading Hearts
-259740	True	Nightmares from the Deep: The Cursed Heart
-259780	True	Nimble Quest
-260790	{'Comment': 'Steam Overlay broken with 64-bit version.'}	1001 Spikes
-261350	True	Steam Bandits: Outpost
-261680	True	Journal
-261700	True	Eryi's Action
-261820	True	Estranged: Act I
-261960	True	Cube & Star: An Arbitrary Love
-262260	True	Jets'n'Guns Gold
-262690	True	Little Racers STREET
-262940	True	Broken Sword 5 - the Serpent's Curse
-263060	True	Blockstorm
-263320	True	Saturday Morning RPG
-263340	True	Continue?9876543210
-263360	True	3089 -- Futuristic Action RPG
-263420	True	Probably Archery
-263460	True	Girls Like Robots
-263840	Error
-264060	True	Full Bore
-264080	True	Vangers
-264140	{'Beta': True}	Pixel Piracy
-264160	True	WazHack
-264280	True	99 Levels To Hell
-264340	True	Major Mayhem
-264380	True	Narcissu 1st & 2nd
-264730	{'Comment': 'Broken overlay.'}	Deadly 30
-265380	True	Grimind
-265630	True	Fistful of Frags
-265670	True	Imagine Me
-265770	True	Cannons Lasers Rockets
-265830	True	Monochroma
-265890	True	Hexcells
-266010	True	LYNE
-266090	True	Starlite: Astronaut Rescue - Developed in Collaboration with NASA
-266130	True	Breach & Clear
-267060	True	Gravity Badgers
-267670	True	Realms of Arkania 1 - Blade of Destiny Classic
-268240	True	Mechanic Escape
-268750	True	Magicite
-268810	True	Paranormal State: Poison Spring
-269010	{'Comment': 'Broken overlay.'}	Science Girls
-269150	True	Luxuria Superbia
-269810	True	Spate
-270050	True	Quest of Dungeons
-270150	True	RUNNING WITH RIFLES
-270330	True	Ku: Shroud of the Morrigan
-270450	True	Robot Roller-Derby Disco Dodgeball
-270570	True	Reversion - The Escape
-270750	True	Realms of Arkania 2 - Star Trail Classic
-270760	True	Realms of Arkania 3 - Shadows over Riva Classic
-271820	True	Card City Nights
-271900	True	Hexcells Plus
-272060	True	Serena
-272670	True	Out of the Park Baseball 15
-273070	True	The Last Federation
-274450	True	The Powerpuff Girls: Defenders of Townsville
-278910	True	Interplanetary
-279160	True	Ultionus: A Tale of Petty Revenge
-280220	True	Creeper World 3: Arc Eternal
-280910	True	T.E.C. 3001
-282760	True	Circuits
-282880	True	FaeVerse Alchemy
-283040	True	Paper Dungeons
-283270	True	Jagged Alliance 1: Gold Edition
-283980	True	Spy Fox in "Dry Cereal"
-284710	True	Abyss: The Wraiths of Eden
-286100	{'Comment': 'This game has only 64-bit binaries.'}	You Have to Win the Game
-286380	True	Strata
-287020	True	Harvester
-287580	{'Comment': 'Partly broken overlay (does not accept input)'}	Pandora: First Contact
-289760	True	ROCKETSROCKETSROCKETS
-290060	True	Glitchspace
-290280	True	Volt
-290770	True	The Fall
-291030	True	Always Remember Me
-291050	True	Planet Stronghold
-291430	True	Lost Marbles
-293200	True	Sentinel
-293300	True	LEVEL 22
-293860	True	White Noise Online
-293920	True	Spirited Heart Deluxe
-294230	True	Millie
-295610	True	Inescapable
-296850	True	Al Emmo and the Lost Dutchman's Mine
-297120	{'Comment': 'Flickering graphics during menus on AMD fglrx drivers'}	Heavy Bullets
-297490	True	Spy Chameleon - RGB Agent
-298340	True	FLASHOUT 2
-299460	True	Woodle Tree Adventures
-299780	True	Noir Syndrome
-300300	True	Ichi
-301190	True	Frederic: Resurrection of Music
-301360	{'Comment': 'This game has only 64-bit binaries.'}	Kill Fun Yeah
-302380	True	Floating Point
-302950	True	Heileen 1: Sail Away
+Index  AppID Works Beta  Title                                                                  Comment
+-------------------------------------------------------------------------------------------------------
+    0     10  True       Counter-Strike                                                         
+    1     20  True       Team Fortress Classic                                                  
+    2     30  True       Day of Defeat                                                          
+    3     40  True       Deathmatch Classic                                                     
+    4     50  True       Half-Life: Opposing Force                                              
+    5     60  True       Ricochet                                                               
+    6     70  True       Half-Life                                                              
+    7     80  True       Counter-Strike: Condition Zero                                         
+    8    100  True       Counter-Strike: Condition Zero                                         
+    9    130  True       Half-Life: Blue Shift                                                  
+   10    220  True       Half-Life 2                                                            
+   11    240  True       Counter-Strike: Source                                                 
+   12    280  True       Half-Life: Source                                                      
+   13    300  True       Day of Defeat: Source                                                  
+   14    320  True       Half-Life 2: Deathmatch                                                
+   15    340  True       Half-Life 2: Lost Coast                                                
+   16    360  True       Half-Life Deathmatch: Source                                           
+   17    380  True       Half-Life 2: Episode One                                               
+   18    400  True       Portal                                                                 
+   19    420  True       Half-Life 2: Episode Two                                               
+   20    440  True       Team Fortress 2                                                        
+   21    550  True       Left 4 Dead 2                                                          
+   22    570  True       Dota 2                                                                 
+   24    620       True  Portal 2                                                               
+   29   1200  True       Red Orchestra: Ostfront 41-45                                          
+   30   1230  True       Mare Nostrum                                                           
+   31   1250  True       Killing Floor                                                          
+   32   1280  True       Darkest Hour: Europe '44-'45                                           
+   33   1500  True       Darwinia                                                               
+   34   1510  True       Uplink                                                                 
+   35   1520  True       DEFCON                                                                 
+   36   1530  True       Multiwinia                                                             
+   37   2810  True       X3: Reunion                                                            
+   38   2820  True       X3: Terran Conflict                                                    
+   39   3830  True       Psychonauts                                                            
+   40   4000  True       Garry's Mod                                                            
+   41   4920  True       Natural Selection 2                                                    
+   42   6120  True       Shank                                                                  
+   43   8930  True       Sid Meier's Civilization® V                                            
+   45  15400  True       Harvest: Massive Encounter                                             
+   46  15560  True       AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome                           
+   47  17520  True       Synergy                                                                
+   49  17710  True       Nuclear Dawn                                                           
+   50  18300  True       Spectraball                                                            
+   51  18700  True       And Yet It Moves                                                       
+   52  20820  True       Shatter                                                                
+   53  20920  True       The Witcher 2: Assassins of Kings Enhanced Edition                     
+   54  22000  True       World of Goo                                                           
+   55  22120  True       Penumbra Black Plague Gold Edition                                     
+   56  22140  True       Penumbra Black Plague Gold Edition                                     
+   57  22180  True       Penumbra Overture                                                      
+   58  22600  True       Worms Reloaded                                                         
+   59  24420  True       Aquaria                                                                
+   60  25000  True       Overgrowth                                                             
+   61  25010  True       Lugaru HD                                                              
+   62  25600  True       Eschalon: Book I                                                       
+   63  25620  True       Eschalon: Book II                                                      
+   64  26500  True       Cogs                                                                   
+   65  29160  True       Blueberry Garden                                                       
+   66  29180  True       Osmos                                                                  
+   67  33600  True       Broken Sword 2 - the Smoking Mirror: Remastered                        
+   68  33680  True       eversion                                                               
+   69  35480  True       Dwarfs!?                                                               
+   70  35720  True       Trine 2: Complete Story                                                
+   71  38600       True  Faerie Solitaire                                                       
+   72  38700  True       Toki Tori                                                              
+   73  38720  True       RUSH                                                                   
+   74  38740  True       EDGE                                                                   
+   75  40800  True       Super Meat Boy                                                         
+   76  41070  True       Serious Sam 3: BFE                                                     
+   77  41100  True       Hammerfight                                                            
+   78  41300  True       Altitude                                                               
+   79  41800  True       Gratuitous Space Battles                                               
+   80  41900  True       The Bard's Tale                                                        
+   81  43160  True       Metro: Last Light                                                      
+   82  44200  True       Galcon Fusion                                                          
+   83  45100  True       Secret of the Magic Crystals                                           
+   84  45450  True       Fortix 2                                                               
+   85  45900             CID the Dummy                                                          A Wine Bottle.
+   86  49600  True       Beat Hazard                                                            
+   87  57300  True       Amnesia: The Dark Descent                                              
+   88  57640             Broken Sword: Director's Cut                                           Ignores SDL environment variables so isn't playable on multiple displays.
+   89  57740  True       Jagged Alliance - Back in Action                                       
+   90  58610  True       Wargame: European Escalation                                           
+   91  61600  True       Zen Bound 2                                                            
+   92  63000  True       HOARD                                                                  
+   93  65800  True       Dungeon Defenders                                                      
+   94  67000  True       The Polynomial - Space of the music                                    
+   95  70100  True       Hacker Evolution                                                       
+   96  70110  True       Hacker Evolution: Untold                                               
+   97  70120  True       Hacker Evolution Duality                                               
+   98  70300  True       VVVVVV                                                                 
+   99  72000  True       Closure                                                                
+  100  73010  True       Cities in Motion                                                       
+  102  80310  True       Gemini Rue                                                             
+  103  91200  True       Anomaly: Warzone Earth                                                 
+  104  92800  True       SpaceChem                                                              
+  105  93200  True       Revenge of the Titans                                                  
+  106  95000  True       Super Splatters                                                        
+  107  95300  True       Capsized                                                               
+  108  96200  True       Steel Storm: Burning Retribution                                       
+  109  97000  True       Solar 2                                                                
+  110  98200  True       Frozen Synapse                                                         
+  111  98800             Dungeons of Dredmor                                                    Broken overlay.
+  112 102840  True       Shank 2                                                                
+  113 105100             Lume                                                                   Overlay works only in full-screen mode. Steamworks features are unavailable.
+  114 107100  True       Bastion                                                                
+  115 107200  True       Space Pirates and Zombies                                              
+  116 107800  True       Rochard                                                                
+  117 108200  True       Ticket to Ride                                                         
+  118 108600  True       Project Zomboid                                                        
+  119 111000             The Clockwork Man                                                      Broken overlay.
+  120 111010             The Clockwork Man: The Hidden World                                    Broken overlay.
+  121 111100  True       Snuggle Truck                                                          
+  123 111800  True       Blocks That Matter                                                     
+  124 112100  True       Avadon: The Black Fortress                                             
+  125 113020  True       Monaco: What's Yours Is Mine                                           
+  126 115100  True       Costume Quest                                                          
+  127 115110  True       Stacking                                                               
+  128 200390  True       Oil Rush                                                               
+  129 200900  True       Cave Story+                                                            
+  130 201040  True       Galcon Legends                                                         
+  131 201310  True       X3: Albion Prelude                                                     
+  132 201420  True       Toki Tori 2+                                                           
+  133 202730  True       Dynamite Jack                                                          
+  134 203210  True       Titan Attacks!                                                         
+  135 203770  True       Crusader Kings II                                                      
+  136 204060  True       Superbrothers: Sword & Sworcery EP                                     
+  137 204180  True       Waveform                                                               
+  138 204220  True       Snapshot                                                               
+  139 204240  True       The Bridge                                                             
+  140 204300  True       Awesomenauts                                                           
+  143 205910  True       Tiny and Big: Grandpa's Leftovers                                      
+  144 206440  True       To the Moon                                                            
+  145 206690  True       iBomber Defense Pacific                                                
+  146 207080       True  Indie Game: The Movie                                                  
+  147 207170  True       Legend of Grimrock                                                     
+  148 207250  True       Cubemen                                                                
+  149 207570  True       English Country Tune                                                   
+  150 207650  True       A Virus Named TOM                                                      
+  151 207750  True       Symphony                                                               
+  152 209080  True       Guns of Icarus Online                                                  
+  153 209190  True       Stealth Bastard Deluxe                                                 
+  154 209270  True       Hero Academy                                                           
+  155 209370  True       Analogue: A Hate Story                                                 
+  156 209540  True       Strike Suit Zero                                                       
+  157 209790             Splice                                                                 Achievements do not unlock.
+  158 210170  True       Spirits                                                                
+  159 210770       True  Sanctum 2                                                              
+  160 211340             Magical Diary                                                          Broken overlay.
+  161 211820  True       Starbound                                                              
+  162 211900  True       Conquest of Elysium 3                                                  
+  163 212070  True       Star Conflict                                                          
+  164 212680  True       FTL: Faster Than Light                                                 
+  165 213650  True       Dwarfs - F2P                                                           
+  166 214420             Gear Up                                                                Broken overlay.
+  167 214550  True       Eets Munchies                                                          
+  168 214560  True       Mark of the Ninja                                                      
+  169 214770  True       Guacamelee! Gold Edition                                               
+  170 214870  True       Painkiller Hell & Damnation                                            
+  171 214910  True       Air Conflicts: Pacific Carriers                                        
+  172 214970             Intrusion 2                                                            Broken overlay. Steamworks features are unavailable.
+  173 215160             The Book of Unwritten Tales                                            Broken overlay.
+  175 215510  True       Rocketbirds: Hardboiled Chicken                                        
+  176 216290  True       Gateways                                                               
+  177 217690  True       Anna - Extended Edition                                                
+  178 218060  True       BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien            
+  179 218090  True       Unity of Command: Stalingrad Campaign                                  
+  180 218410             Defender's Quest: Valley of the Forgotten                              Broken overlay.
+  181 218660  True       iBomber Attack                                                         
+  182 219150  True       Hotline Miami                                                          
+  183 219190  True       Ultratron                                                              
+  184 219200  True       Droid Assault                                                          
+  185 219680  True       Proteus                                                                
+  186 219740  True       Don't Starve                                                           
+  187 219830  True       King Arthur's Gold                                                     
+  188 219890  True       Antichamber                                                            
+  189 220090  True       The Journey Down: Chapter One                                          
+  190 220200  True       Kerbal Space Program                                                   
+  191 220460  True       Cargo Commander                                                        
+  192 220780  True       Thomas Was Alone                                                       
+  193 220900  True       Jack Lumber                                                            
+  194 221020  True       Towns                                                                  
+  195 221260  True       Little Inferno                                                         
+  196 221640  True       Super Hexagon                                                          
+  197 221810  True       The Cave                                                               
+  198 221830  True       The Book of Unwritten Tales: The Critter Chronicles                    
+  199 222140  True       Puddle                                                                 
+  201 222520  True       Champions of Regnum                                                    
+  202 222730  True       Reus                                                                   
+  203 222750  True       Wargame: Airland Battle                                                
+  204 223470  True       POSTAL 2                                                               
+  206 224260  True       No More Room in Hell                                                   
+  207 224480  True       Octodad: Dadliest Catch                                                
+  209 224760  True       FEZ                                                                    
+  210 224860  True       Arma Tactics                                                           
+  211 225140  True       Duke Nukem 3D: Megaton Edition                                         
+  212 225160  True       Shadow Warrior Classic Redux                                           
+  213 225260  True       Brutal Legend                                                          
+  214 225420  True       Cities in Motion 2                                                     
+  216 226620  True       Desktop Dungeons                                                       
+  217 226960  True       Ironclad Tactics                                                       
+  218 227160  True       Kinetic Void                                                           
+  219 227200  True       Waking Mars                                                            
+  220 227300  True       Euro Truck Simulator 2                                                 
+  221 227580  True       10,000,000                                                             
+  222 227860  True       Castle Story                                                           
+  223 228440  True       Cubemen 2                                                              
+  224 228960  True       Skulls of the Shogun                                                   
+  225 229520  True       Dungeon Hearts                                                         
+  227 230190  True       War for the Overworld                                                  
+  228 230310  True       Akaneiro: Demon Hunters                                                
+  229 230760  True       DIVO                                                                   
+  230 231040  True       Beatbuddy: Tale of the Guardians                                       
+  231 231160  True       The Swapper                                                            
+  232 231200  True       Kentucky Route Zero                                                    
+  233 231310  True       MirrorMoon EP                                                          
+  234 231330  True       Deadfall Adventures                                                    
+  235 231670  True       Football Manager 2014                                                  
+  236 231720  True       Bad Hotel                                                              
+  237 231740  True       Knights of Pen and Paper +1 Edition                                    
+  238 231910  True       Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded         
+  239 232050             Eador: Masters of the Broken World                                     The game is not a Linux port but a WINE self contained package.
+  243 232430  True       Gone Home                                                              
+  244 232770  True       POSTAL                                                                 
+  245 232790  True       Broken Age                                                             
+  246 233150  True       LUFTRAUSERS                                                            
+  247 233230  True       Kairo                                                                  
+  248 233250  True       Planetary Annihilation                                                 
+  249 233370  True       The Raven - Legacy of a Master Thief                                   
+  250 233450  True       Prison Architect                                                       
+  251 233720  True       Surgeon Simulator 2013                                                 
+  252 233740  True       Organ Trail: Director's Cut                                            
+  253 234000  True       Superfrog HD                                                           
+  254 234060  True       Timelines: Assault on America                                          
+  255 234190  True       Receiver                                                               
+  256 234390  True       Teleglitch: Die More Edition                                           
+  257 234650  True       Shadowrun Returns                                                      
+  258 234900  True       Anodyne                                                                
+  259 234940  True       The 39 Steps                                                           
+  260 235820  True       Element4l                                                              
+  261 235980  True       Tetrobot and Co.                                                       
+  262 236090  True       Dust: An Elysian Tail                                                  
+  266 236370  True       Interstellar Marines                                                   
+  267 236730  True       Anomaly 2                                                              
+  268 236850  True       Europa Universalis IV                                                  
+  269 237430  True       Expeditions: Conquistador                                              
+  270 237470  True       Battle Worlds: Kronos                                                  
+  271 237550  True       Realms of Arkania: Blade of Destiny                                    
+  272 237870  True       Planet Explorers                                                       
+  273 238210  True       System Shock 2                                                         
+  274 238280  True       Legend of Dungeon                                                      
+  275 238460  True       BattleBlock Theater®                                                   
+  277 238910  True       Bionic Dues                                                            
+  278 239030  True       Papers, Please                                                         
+  279 239070  True       Hammerwatch                                                            
+  280 239200  True       Amnesia: A Machine for Pigs                                            
+  281 239700  True       Hate Plus                                                              
+  282 239820  True       Game Dev Tycoon                                                        
+  283 240760  True       Wasteland 2 Digital Deluxe Edition                                     
+  284 241320  True       Ittle Dew                                                              
+  285 241600  True       Rogue Legacy                                                           
+  286 241640  True       Haunted Memories                                                       
+  287 242110  True       Joe Danger 2: The Movie                                                
+  290 242530  True       The Chaos Engine                                                       
+  291 242570  True       Space Hulk                                                             
+  292 242680  True       Nuclear Throne                                                         
+  293 242820  True       140                                                                    
+  294 242860  True       Verdun                                                                 
+  295 242880  True       Sir, You Are Being Hunted                                              
+  296 243140  True       Glare                                                                  
+  297 243280  True       Poöf                                                                   
+  298 243780  True       PixelJunk™ Monsters Ultimate                                           
+  299 244810  True       Foul Play                                                              
+  300 244870  True       Electronic Super Joy                                                   
+  301 245150  True       The Novelist                                                           
+  302 245390  True       I Have No Mouth, and I Must Scream                                     
+  303 245410  True       Wizardry 6: Bane of the Cosmic Forge                                   
+  304 245430  True       Wizardry 7: Crusaders of the Dark Savant                               
+  305 245470  True       Democracy 3                                                            
+  306 245550             Free to Play                                                           Overlay doesn't work.
+  307 246070  True       Hack 'n' Slash                                                         
+  308 246090  True       Spacebase DF-9                                                         
+  309 246360  True       Perfection.                                                            
+  310 246400  True       Nekro                                                                  
+  311 246420  True       Kingdom Rush                                                           
+  312 246680  True       Secrets of Rætikon                                                     
+  313 246800  True       BeatBlasters III                                                       
+  314 247020  True       Cook, Serve, Delicious!                                                
+  315 247870  True       Redshirt                                                               
+  316 248190             Knytt Underground                                                      There might be some input glitches on the Steam overlay.
+  317 248410  True       Legends of Aethereus                                                   
+  318 248450  True       Salvation Prophecy                                                     
+  319 248470  True       Doorways: Chapter 1 & 2                                                
+  320 248510  True       Dominions 3: The Awakening                                             
+  321 248550  True       Megabyte Punch                                                         
+  322 248570  True       Toribash                                                               
+  323 248610  True       Door Kickers                                                           
+  324 248710  True       Iesabel                                                                
+  325 248800             Dysfunctional Systems: Learning to Manage Chaos                        Need to disable Steamworks on 64bit systems due to a bug.
+  326 248860             NEO Scavenger                                                          Broken overlay.
+  328 249570  True       The Castle Doctrine                                                    
+  329 249590  True       Teslagrad                                                              
+  330 249630  True       Delver                                                                 
+  331 249950  True       Forge Quest                                                            
+  332 249990  True       FORCED                                                                 
+  333 250050  True       Life Goes On                                                           
+  334 250110  True       Assault Android Cactus                                                 
+  335 250260  True       Jazzpunk                                                               
+  336 250380  True       Knock-knock                                                            
+  337 250420             8BitMMO                                                                Overlay works in server-select window, but not in game window.
+  338 250460  True       Bridge Constructor                                                     
+  339 250580  True       Paranautical Activity                                                  
+  340 250600  True       The Plan                                                               
+  341 250620  True       Among the Sleep                                                        
+  342 251210  True       Hive                                                                   
+  343 251370  True       Escape Goat                                                            
+  344 251410  True       Dark Matter                                                            
+  345 251470  True       TowerFall Ascension                                                    
+  346 251530  True       Anomaly Korea                                                          
+  347 251630  True       The Impossible Game                                                    
+  348 251910  True       Solar Flux                                                             
+  349 251990  True       Long Live The Queen                                                    
+  350 252010             Oniken                                                                 The game is not a Linux port but a WINE self contained package.
+  351 252170  True       Anomaly Warzone Earth Mobile Campaign                                  
+  352 252250  True       Maia                                                                   
+  353 252310  True       Syder Arcade                                                           
+  354 252370  True       The Shivah                                                             
+  355 252410  True       SteamWorld Dig                                                         
+  356 252490  True       Rust                                                                   
+  357 252630  True       Eldritch                                                               
+  358 252670  True       Nihilumbra                                                             
+  359 252750  True       MouseCraft                                                             
+  360 253030  True       Race The Sun                                                           
+  361 253110             The Cat Lady                                                           Broken overlay.
+  362 253310  True       Fester Mudd: Curse of the Gold - Episode 1                             
+  363 253410  True       Ravensword: Shadowlands                                                
+  364 253570  True       Gentlemen!                                                             
+  365 253650  True       Sparkle 2 Evo                                                          
+  366 253790  True       rymdkapsel                                                             
+  367 255300  True       Journey of a Roach                                                     
+  368 255340  True       Escape Goat 2                                                          
+  369 255500  True       Entropy                                                                
+  371 255870  True       PixelJunk™ Shooter                                                     
+  372 255920  True       The 7th Guest                                                          
+  373 257120  True       Not The Robots                                                         
+  374 257670  True       Elder Sign: Omens                                                      
+  375 257770  True       Signal Ops                                                             
+  376 257830  True       Violett                                                                
+  377 257870  True       Eschalon: Book III                                                     
+  378 257930  True       Race To Mars                                                           
+  379 258050  True       Survivor Squad                                                         
+  381 258890  True       Type:Rider                                                             
+  382 258950  True       Montague's Mount                                                       
+  383 259060  True       Dominions 4: Thrones of Ascension                                      
+  384 259130  True       Wasteland 1 - The Original Classic                                     
+  385 259390  True       Ballpoint Universe - Infinite                                          
+  386 259430  True       Zigfrak                                                                
+  387 259450  True       Drifter                                                                
+  388 259470  True       Particulars                                                            
+  389 259510  True       Shufflepuck Cantina Deluxe                                             
+  390 259530  True       Savant - Ascent                                                        
+  391 259600  True       Finding Teddy                                                          
+  392 259620  True       3079 -- Block Action RPG                                               
+  393 259680  True       Tales of Maj'Eyal                                                      
+  394 259700  True       Dead Sky                                                               
+  395 259720  True       Fading Hearts                                                          
+  396 259740  True       Nightmares from the Deep: The Cursed Heart                             
+  397 259780  True       Nimble Quest                                                           
+  398 260790             1001 Spikes                                                            Steam Overlay broken with 64-bit version.
+  399 261350  True       Steam Bandits: Outpost                                                 
+  400 261680  True       Journal                                                                
+  401 261700  True       Eryi's Action                                                          
+  402 261820  True       Estranged: Act I                                                       
+  403 261960  True       Cube & Star: An Arbitrary Love                                         
+  404 262260  True       Jets'n'Guns Gold                                                       
+  405 262690  True       Little Racers STREET                                                   
+  406 262940  True       Broken Sword 5 - the Serpent's Curse                                   
+  407 263060  True       Blockstorm                                                             
+  408 263320  True       Saturday Morning RPG                                                   
+  409 263340  True       Continue?9876543210                                                    
+  410 263360  True       3089 -- Futuristic Action RPG                                          
+  411 263420  True       Probably Archery                                                       
+  412 263460  True       Girls Like Robots                                                      
+  414 264060  True       Full Bore                                                              
+  415 264080  True       Vangers                                                                
+  416 264140       True  Pixel Piracy                                                           
+  417 264160  True       WazHack                                                                
+  418 264280  True       99 Levels To Hell                                                      
+  419 264340  True       Major Mayhem                                                           
+  420 264380  True       Narcissu 1st & 2nd                                                     
+  421 264730             Deadly 30                                                              Broken overlay.
+  422 265380  True       Grimind                                                                
+  423 265630  True       Fistful of Frags                                                       
+  424 265670  True       Imagine Me                                                             
+  425 265770  True       Cannons Lasers Rockets                                                 
+  426 265830  True       Monochroma                                                             
+  427 265890  True       Hexcells                                                               
+  428 266010  True       LYNE                                                                   
+  429 266090  True       Starlite: Astronaut Rescue - Developed in Collaboration with NASA      
+  430 266130  True       Breach & Clear                                                         
+  431 267060  True       Gravity Badgers                                                        
+  432 267670  True       Realms of Arkania 1 - Blade of Destiny Classic                         
+  433 268240  True       Mechanic Escape                                                        
+  434 268750  True       Magicite                                                               
+  435 268810  True       Paranormal State: Poison Spring                                        
+  436 269010             Science Girls                                                          Broken overlay.
+  437 269150  True       Luxuria Superbia                                                       
+  438 269810  True       Spate                                                                  
+  439 270050  True       Quest of Dungeons                                                      
+  440 270150  True       RUNNING WITH RIFLES                                                    
+  441 270330  True       Ku: Shroud of the Morrigan                                             
+  442 270450  True       Robot Roller-Derby Disco Dodgeball                                     
+  443 270570  True       Reversion - The Escape                                                 
+  444 270750  True       Realms of Arkania 2 - Star Trail Classic                               
+  445 270760  True       Realms of Arkania 3 - Shadows over Riva Classic                        
+  446 271820  True       Card City Nights                                                       
+  447 271900  True       Hexcells Plus                                                          
+  448 272060  True       Serena                                                                 
+  449 272670  True       Out of the Park Baseball 15                                            
+  450 273070  True       The Last Federation                                                    
+  451 274450  True       The Powerpuff Girls: Defenders of Townsville                           
+  452 278910  True       Interplanetary                                                         
+  453 279160  True       Ultionus: A Tale of Petty Revenge                                      
+  454 280220  True       Creeper World 3: Arc Eternal                                           
+  455 280910  True       T.E.C. 3001                                                            
+  456 282760  True       Circuits                                                               
+  457 282880  True       FaeVerse Alchemy                                                       
+  458 283040  True       Paper Dungeons                                                         
+  459 283270  True       Jagged Alliance 1: Gold Edition                                        
+  460 283980  True       Spy Fox in "Dry Cereal"                                                
+  461 284710  True       Abyss: The Wraiths of Eden                                             
+  462 286100             You Have to Win the Game                                               This game has only 64-bit binaries.
+  463 286380  True       Strata                                                                 
+  464 287020  True       Harvester                                                              
+  465 287580             Pandora: First Contact                                                 Partly broken overlay (does not accept input)
+  466 289760  True       ROCKETSROCKETSROCKETS                                                  
+  467 290060  True       Glitchspace                                                            
+  468 290280  True       Volt                                                                   
+  469 290770  True       The Fall                                                               
+  470 291030  True       Always Remember Me                                                     
+  471 291050  True       Planet Stronghold                                                      
+  472 291430  True       Lost Marbles                                                           
+  473 293200  True       Sentinel                                                               
+  474 293300  True       LEVEL 22                                                               
+  475 293860  True       White Noise Online                                                     
+  476 293920  True       Spirited Heart Deluxe                                                  
+  477 294230  True       Millie                                                                 
+  478 295610  True       Inescapable                                                            
+  479 296850  True       Al Emmo and the Lost Dutchman's Mine                                   
+  480 297120             Heavy Bullets                                                          Flickering graphics during menus on AMD fglrx drivers
+  481 297490  True       Spy Chameleon - RGB Agent                                              
+  482 298340  True       FLASHOUT 2                                                             
+  483 299460  True       Woodle Tree Adventures                                                 
+  484 299780  True       Noir Syndrome                                                          
+  485 300300  True       Ichi                                                                   
+  486 301190  True       Frederic: Resurrection of Music                                        
+  487 301360             Kill Fun Yeah                                                          This game has only 64-bit binaries.
+  488 302380  True       Floating Point                                                         
+  489 302950  True       Heileen 1: Sail Away                                                   

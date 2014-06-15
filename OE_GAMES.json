@@ -1,0 +1,40 @@
+{
+	"400": true,
+  "440": true,
+	"550":
+  {
+    "Comment": "Errors. Could not find /scripts/dsp_presets.txt"
+  },
+	"620":
+	{
+		"Beta": true,
+    "Comment": "Works flawlessly for a beta"
+	},
+	"22600": true,
+	"35720": 
+  {
+    "Comment": "Game launches but is unplayable"
+  },
+	"43160": 
+  {
+    "Comment": "Hard links to /storage/.steam/root/steam.sh, won't launch, blame the developer"
+  },
+	"107100": true,
+	"204300": true,
+	"209540": true,
+	"210770":
+	{
+		"Beta": true,
+    "Comment": "Works"
+	},
+	"214770": true,
+	"219150": true,
+	"219680": true,
+	"219890": true,
+	"224760": true,
+	"233720": true,
+	"239200":
+  {
+    "Comment": "Hard links to /storage/.steam/root/steam.sh, won't launch, blame the developer"
+  }
+}

@@ -1,0 +1,20 @@
+Index  AppID Works Beta  Title                                                                  Comment
+-------------------------------------------------------------------------------------------------------
+    0    400  True       Portal                                                                 
+    1    440  True       Team Fortress 2                                                        
+    2    550             Left 4 Dead 2                                                          Errors. Could not find /scripts/dsp_presets.txt
+    3    620       True  Portal 2                                                               Works flawlessly for a beta
+    4  22600  True       Worms Reloaded                                                         
+    5  35720             Trine 2: Complete Story                                                Game launches but is unplayable
+    6  43160             Metro: Last Light                                                      Hard links to /storage/.steam/root/steam.sh, won't launch, blame the developer
+    7 107100  True       Bastion                                                                
+    8 204300  True       Awesomenauts                                                           
+    9 209540  True       Strike Suit Zero                                                       
+   10 210770       True  Sanctum 2                                                              Works
+   11 214770  True       Guacamelee! Gold Edition                                               
+   12 219150  True       Hotline Miami                                                          
+   13 219680  True       Proteus                                                                
+   14 219890  True       Antichamber                                                            
+   15 224760  True       FEZ                                                                    
+   16 233720  True       Surgeon Simulator 2013                                                 
+   17 239200             Amnesia: A Machine for Pigs                                            Hard links to /storage/.steam/root/steam.sh, won't launch, blame the developer
