@@ -26,7 +26,7 @@ AppID	Works	Title
 620	{'Beta': True}	Portal 2
 1200	True	Red Orchestra: Ostfront 41-45
 1230	True	Mare Nostrum
-1250	Error
+1250	True	Killing Floor
 1280	True	Darkest Hour: Europe '44-'45
 1500	True	Darwinia
 1510	True	Uplink
@@ -37,7 +37,7 @@ AppID	Works	Title
 3830	True	Psychonauts
 4000	True	Garry's Mod
 4920	True	Natural Selection 2
-6120	Error
+6120	True	Shank
 8930	True	Sid Meier's Civilization® V
 13700	Error
 15400	True	Harvest: Massive Encounter
@@ -47,11 +47,11 @@ AppID	Works	Title
 18300	True	Spectraball
 18700	True	And Yet It Moves
 20820	True	Shatter
-20920	Error
+20920	True	The Witcher 2: Assassins of Kings Enhanced Edition
 22000	True	World of Goo
-22120	Error
-22140	Error
-22180	Error
+22120	True	Penumbra Black Plague Gold Edition
+22140	True	Penumbra Black Plague Gold Edition
+22180	True	Penumbra Overture
 22600	True	Worms Reloaded
 24420	True	Aquaria
 25000	True	Overgrowth
@@ -75,7 +75,7 @@ AppID	Works	Title
 41300	True	Altitude
 41800	True	Gratuitous Space Battles
 41900	True	The Bard's Tale
-43160	Error
+43160	True	Metro: Last Light
 44200	True	Galcon Fusion
 45100	True	Secret of the Magic Crystals
 45450	True	Fortix 2
@@ -83,7 +83,7 @@ AppID	Works	Title
 49600	True	Beat Hazard
 57300	True	Amnesia: The Dark Descent
 57640	{'Comment': "Ignores SDL environment variables so isn't playable on multiple displays."}	Broken Sword: Director's Cut
-57740	Error
+57740	True	Jagged Alliance - Back in Action
 58610	True	Wargame: European Escalation
 61600	True	Zen Bound 2
 63000	True	HOARD
@@ -105,7 +105,7 @@ AppID	Works	Title
 97000	True	Solar 2
 98200	True	Frozen Synapse
 98800	{'Comment': 'Broken overlay.'}	Dungeons of Dredmor
-102840	Error
+102840	True	Shank 2
 105100	{'Comment': 'Overlay works only in full-screen mode. Steamworks features are unavailable.'}	Lume
 107100	True	Bastion
 107200	True	Space Pirates and Zombies
@@ -148,7 +148,7 @@ AppID	Works	Title
 209270	True	Hero Academy
 209370	True	Analogue: A Hate Story
 209540	True	Strike Suit Zero
-209790	{'Comment': 'Achievements do not unlock.', 'CommentURL': 'http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741'}	Splice
+209790	{'CommentURL': 'http://steamcommunity.com/app/209790/discussions/0/864951657745931480/#c828925216497607741', 'Comment': 'Achievements do not unlock.'}	Splice
 210170	True	Spirits
 210770	{'Beta': True}	Sanctum 2
 211340	{'Comment': 'Broken overlay.'}	Magical Diary
@@ -159,7 +159,7 @@ AppID	Works	Title
 213650	True	Dwarfs - F2P
 214420	{'Comment': 'Broken overlay.'}	Gear Up
 214550	True	Eets Munchies
-214560	Error
+214560	True	Mark of the Ninja
 214770	True	Guacamelee! Gold Edition
 214870	True	Painkiller Hell & Damnation
 214910	True	Air Conflicts: Pacific Carriers
@@ -172,7 +172,7 @@ AppID	Works	Title
 218090	True	Unity of Command: Stalingrad Campaign
 218410	{'Comment': 'Broken overlay.'}	Defender's Quest: Valley of the Forgotten
 218660	True	iBomber Attack
-219150	Error
+219150	True	Hotline Miami
 219190	True	Ultratron
 219200	True	Droid Assault
 219680	True	Proteus
@@ -193,14 +193,14 @@ AppID	Works	Title
 222520	True	Champions of Regnum
 222730	True	Reus
 222750	True	Wargame: Airland Battle
-223470	Error
+223470	True	POSTAL 2
 223530	Error
 224260	True	No More Room in Hell
 224480	True	Octodad: Dadliest Catch
 224760	True	FEZ
 224860	True	Arma Tactics
-225140	Error
-225160	Error
+225140	True	Duke Nukem 3D: Megaton Edition
+225160	True	Shadow Warrior Classic Redux
 225260	True	Brutal Legend
 225420	True	Cities in Motion 2
 226620	True	Desktop Dungeons
@@ -227,7 +227,7 @@ AppID	Works	Title
 231910	True	Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 232050	{'Comment': 'The game is not a Linux port but a WINE self contained package.'}	Eador: Masters of the Broken World
 232430	True	Gone Home
-232770	Error
+232770	True	POSTAL
 232790	True	Broken Age
 233150	True	LUFTRAUSERS
 233230	True	Kairo
@@ -253,7 +253,7 @@ AppID	Works	Title
 237470	True	Battle Worlds: Kronos
 237550	True	Realms of Arkania: Blade of Destiny
 237870	True	Planet Explorers
-238210	Error
+238210	True	System Shock 2
 238280	True	Legend of Dungeon
 238460	True	BattleBlock Theater®
 238910	True	Bionic Dues
@@ -263,7 +263,7 @@ AppID	Works	Title
 239700	True	Hate Plus
 239820	True	Game Dev Tycoon
 240760	True	Wasteland 2 Digital Deluxe Edition
-241320	Error
+241320	True	Ittle Dew
 241600	True	Rogue Legacy
 241640	True	Haunted Memories
 242110	True	Joe Danger 2: The Movie
@@ -293,7 +293,7 @@ AppID	Works	Title
 246800	True	BeatBlasters III
 247020	True	Cook, Serve, Delicious!
 247870	True	Redshirt
-248190	Error
+248190	{'Comment': 'There might be some input glitches on the Steam overlay.'}	Knytt Underground
 248410	True	Legends of Aethereus
 248450	True	Salvation Prophecy
 248470	True	Doorways: Chapter 1 & 2
@@ -302,7 +302,7 @@ AppID	Works	Title
 248570	True	Toribash
 248610	True	Door Kickers
 248710	True	Iesabel
-248800	{'Comment': 'Need to disable Steamworks on 64bit systems due to a bug.', 'CommentURL': 'http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647'}	Dysfunctional Systems: Learning to Manage Chaos
+248800	{'CommentURL': 'http://steamcommunity.com/app/248800/discussions/0/846965705285069220/#c846966336102411647', 'Comment': 'Need to disable Steamworks on 64bit systems due to a bug.'}	Dysfunctional Systems: Learning to Manage Chaos
 248860	{'Comment': 'Broken overlay.'}	NEO Scavenger
 249570	True	The Castle Doctrine
 249590	True	Teslagrad
@@ -332,7 +332,7 @@ AppID	Works	Title
 252310	True	Syder Arcade
 252370	True	The Shivah
 252410	True	SteamWorld Dig
-252490	Error
+252490	True	Rust
 252630	True	Eldritch
 252670	True	Nihilumbra
 252750	True	MouseCraft
@@ -438,7 +438,7 @@ AppID	Works	Title
 284710	True	Abyss: The Wraiths of Eden
 286100	{'Comment': 'This game has only 64-bit binaries.'}	You Have to Win the Game
 286380	True	Strata
-287020	Error
+287020	True	Harvester
 287580	{'Comment': 'Partly broken overlay (does not accept input)'}	Pandora: First Contact
 289760	True	ROCKETSROCKETSROCKETS
 290060	True	Glitchspace
